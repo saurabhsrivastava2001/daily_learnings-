@@ -1,0 +1,1 @@
+after coming from college i went to the library at 8pm and almst completed the nootebook implementation of the project of mnist prediction using deeplearning
